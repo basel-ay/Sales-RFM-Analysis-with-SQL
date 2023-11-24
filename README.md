@@ -1,6 +1,6 @@
 # Sales-RFM-Analysis-with-SQL
 
-## **RFM** 
+## What is **RFM** stands for? 
 
 Stands for Recency - Frequency - Monetary Value. Theoretically, we will have segments like the below:
 
